@@ -1,0 +1,7 @@
+*.log
+*.~lock
+**/*.map
+out/
+.DS_Store
+build
+dist

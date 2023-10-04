@@ -1,0 +1,40 @@
+{
+  "name": "drukyul-themes",
+  "displayName": "drukyul-themes",
+  "description": "Drukyul Themes",
+  "version": "1.0.0",
+  "author": {
+    "name": "Bikash Gurung"
+  },
+  "publisher": "kashgurung",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kashgurung/drukyul-themes"
+  },
+  "icon": "assets/images/drukyul_themes_logo.png",
+  "keywords": [
+    "themes",
+    "drukyul",
+    "drukyul themes"
+  ],
+  "engines": {
+    "vscode": "^1.82.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Drukyul Dark!",
+        "path": "./themes/dark/Drukyul-Dark-color-theme.json",
+        "uiTheme": "vs-dark"
+      },
+      {
+        "label": "Drukyul Light!",
+        "path": "/themes/light/Drukyul-Light-color-theme.json",
+        "uiTheme": "vs"
+      }
+    ]
+  }
+}
