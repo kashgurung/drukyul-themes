@@ -1,7 +1,7 @@
 {
   "name": "drukyul-themes",
-  "displayName": "drukyul-themes",
-  "description": "Drukyul Themes",
+  "displayName": "Drukyul Themes",
+  "description": "Drukyul Themes - an extension for vscode",
   "version": "1.0.0",
   "author": {
     "name": "Bikash Gurung"
