@@ -1,8 +1,8 @@
 {
   "name": "drukyul-themes",
   "displayName": "Drukyul Themes",
-  "description": "Drukyul Themes - an extension for vscode",
-  "version": "1.0.0",
+  "description": "Drukyul Themes - an extension for your favorite IDE",
+  "version": "1.1.0",
   "author": {
     "name": "Bikash Gurung"
   },
@@ -15,7 +15,12 @@
   "keywords": [
     "themes",
     "drukyul",
-    "drukyul themes"
+    "drukyul theme",
+    "drukyul themes",
+    "dark",
+    "light",
+    "dark theme",
+    "light theme"
   ],
   "engines": {
     "vscode": "^1.82.0"
@@ -32,7 +37,7 @@
       },
       {
         "label": "Drukyul Light!",
-        "path": "/themes/light/Drukyul-Light-color-theme.json",
+        "path": "./themes/light/Drukyul-Light-color-theme.json",
         "uiTheme": "vs"
       }
     ]
